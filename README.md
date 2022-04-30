@@ -1,4 +1,4 @@
-cd 'C:\Users\A\repos\\aoe3-balance-mod'
+cd 'C:\Users\A\repos\\aoe3-balance-mod-official'
 mkdir .temp
 
 # Use Resource manager to extract data
@@ -6,17 +6,12 @@ File -> Open
     C:\Program Files (x86)\Steam\steamapps\common\AoE3DE\Game\Data\Data.bar
 Extract -> All files
     Check xml and png options
-    C:\Users\A\repos\aoe3-balance-mod\.temp
+    C:\Users\A\repos\aoe3-balance-mod-official\.temp
 
-rm -r .current_patch
-rm -r .future_patch
-
-mkdir .current_patch
-mkdir .future_patch
-
-
-cp .temp/Data/techtreey.xml .current_patch
-cp .temp/Data/techtreey.xml .future_patch
+rm -r Data
+mkdir Data
+cp .temp/Data/techtreey.xml ./Data
+cp .temp/Data/protoy.xml ./Data
 
 
 
