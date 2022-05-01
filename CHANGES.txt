@@ -1,0 +1,20 @@
+Relative to official patch.
+
+All
+- Revert native warrior population buff, back to 1 population.
+
+Inca
+- Remove chasqui shipment point
+- Remove garrisoning military units in stronghold 
+- Make Huaraca into arrow knights
+
+China
+- Blockhouse cannot train castle units or armies
+
+Dutch
+- Revert crate -50f nerf, back to 100f 200w 400c
+- Revert bank xp nerf
+
+Ports
+- Revert crate -100f nerf, back to 300f 200w
+
