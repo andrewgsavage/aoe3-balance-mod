@@ -8,6 +8,7 @@ Aztec
 
 Inca
 - Remove chasqui shipment point
+- Remove tambo shipment point
 - Remove garrisoning military units in stronghold 
 - Make Huaraca into arrow knights
 
