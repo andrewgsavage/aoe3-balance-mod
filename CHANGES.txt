@@ -3,6 +3,9 @@ Relative to official patch.
 All
 - Revert native warrior population buff, back to 1 population.
 
+Aztec
+- Revert 8 and 9 mace shipments to 9 and 10
+
 Inca
 - Remove chasqui shipment point
 - Remove garrisoning military units in stronghold 
