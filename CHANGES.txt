@@ -1,4 +1,6 @@
-Relative to official patch.
+Balance mod for 1v1 supremacy.
+
+Relative to April 2022 update.
 
 All
 - Revert native warrior population buff, back to 1 population.
@@ -22,3 +24,6 @@ Dutch
 Ports
 - Revert crate -100f nerf, back to 300f 200w
 
+Spain
+- Revert unction ability range. Card now ships 4 missionaries. Maintain 2.5% and no population.
+- Revert lancer train time
